@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "name": "birthday-site-v2",
   "version": "0.1.0",
@@ -26,7 +26,7 @@
     "tailwindcss": "^4"
   }
 }
-=======
+
 {
   "name": "birthday-site-v2",
   "version": "0.1.0",
@@ -54,4 +54,4 @@
     "tailwindcss": "^4"
   }
 }
->>>>>>> 9211fab7b5abdca8bac92f3d031e8e0161ed406b
+
