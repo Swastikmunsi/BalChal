@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import "./globals.css";
 
 export const metadata = {
@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-=======
+
 import "./globals.css";
 
 export const metadata = {
@@ -36,4 +36,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
->>>>>>> 9211fab7b5abdca8bac92f3d031e8e0161ed406b
+
